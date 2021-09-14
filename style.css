@@ -1,4 +1,28 @@
-body {background-color:tan;}
-h1{color:green;}
 
-
+body 
+{
+    background-color:black;
+    font-family: arial
+}
+input
+{
+    margin-left: 50px
+}
+select
+{
+    margin-left: 50px
+}
+h1
+{
+    color:grey; font-family: Verdana; text-align: center 
+}
+.maindiv
+{
+    background-color: white;
+    color: black;
+    width: 600px;
+    padding: 20px;
+    padding-left: 100px;
+    border-radius: 25px;
+    margin : 0 auto
+}
